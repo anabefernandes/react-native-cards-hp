@@ -11,7 +11,7 @@ Componente que exibe uma imagem e um título em formato horizontal.
 Componente que exibe uma imagem e um título em formato vertical.
 
 ### Tecnologias utilizadas
-React Native
-Expo
-JavaScript
+ - React Native
+ - Expo
+ - JavaScript
 
