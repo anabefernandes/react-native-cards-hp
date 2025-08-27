@@ -6,6 +6,7 @@ Repositório com atividade 01 de Desenvolvimento para Dispositivo Móvel de comp
 
 ### HorizontalCard
 Componente que exibe uma imagem e um título em formato horizontal.
+
 ### VerticalCard
 Componente que exibe uma imagem e um título em formato vertical.
 
