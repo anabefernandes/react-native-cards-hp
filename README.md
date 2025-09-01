@@ -15,3 +15,13 @@ Componente que exibe uma imagem e um título em formato vertical.
  - Expo
  - JavaScript
 
+### Para inicar esse projeto:
+```cd react-native-cards-hp```
+``` npm install```
+
+### Execute o projeto com o Expo
+```npx expo start```
+
+Isso abrirá o Expo DevTools no navegador. Você pode:
+Escanear o QR code com o app Expo Go no seu celular (Android/iOS).
+Rodar em um emulador (Android/iOS) se tiver configurado.
